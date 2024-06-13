@@ -6,7 +6,7 @@ or return false.
 class Solution {
     public boolean containsDuplicate(int[] nums) {
        HashSet<Integer> hashset  = new  HashSet<Integer>();
-       for (int a : nums){
+       for (int a: nums){
             if (!hashset.add(a)){return true;} 
        }
        return false;
