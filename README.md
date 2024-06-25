@@ -1,7 +1,7 @@
 # Leetcode-Solution-Java
 ## **Solutions for LeetCode problems**
 
-| <a href = "src/main/java/Arrays & Hashing">Arrays & Hashing | X |
+| Arrays & Hashing<a href = "src/main/java/Arrays & Hashing">Java..<a href = "src/main/java/Arrays & Hashing">python | X |
 | ------------- | ------------- |
 |217.Contains Duplicate (EASY) <a href = "src/main/java/Arrays & Hashing/Contains_Duplicate.java">Java..<a href = "src/main/python/Arrays/ContainsDuplicate.py">python| X |
 |242. Valid Anagram (EASY) <a href = "src/main/java/Arrays & Hashing/Contains_Duplicate.java">Java..<a href = "src/main/python/Arrays/ContainsDuplicate.py">python| X |
